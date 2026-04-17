@@ -16,8 +16,7 @@
 
 - 🧠 AI Data Specialist at **Meta** — large-scale ML system development & evaluation
 - 🚀 Founder of **[SOLA](https://solahq.co)** — precision tech consultancy building AI systems & products
-- 🎓 Computer Science @ **Birkbeck, University of London**
-- 🛠️ Currently shipping: **[Liftd](https://liftdapp.co)** and **Peak** (local AI voice dictation for Mac)
+- 🛠️ Focused on ML systems, NLP, and shipping real AI products
 - 📍 London, UK
 
 ---
@@ -30,28 +29,6 @@ ML/AI:       PyTorch · TensorFlow · Scikit-learn · Hugging Face
 NLP:         LLMs · Fine-tuning · RAG · Prompt Engineering
 Infra:       Node.js · REST APIs · PostgreSQL · Docker
 ```
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasrescodes&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rasrescodes&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
-### 🚧 What I'm Building
-
-| Project | Description | Stack |
-|---|---|---|
-| [SOLA](https://solahq.co) | Precision AI & tech consultancy | Full-Stack · AI |
-| [Liftd](https://liftdapp.co) | Competitive fitness ranking app | TypeScript |
-| Peak | Local AI voice dictation for Mac | Python · MLX · Whisper |
 
 ---
 
