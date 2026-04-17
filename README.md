@@ -18,11 +18,11 @@
 
 ### 👋 About Me
 
-I build at the intersection of machine learning and real-world products. By day I work at **Meta** as an AI Data Specialist, contributing to the development and evaluation of large-scale ML systems. Outside of that, I run **[SOLA](https://solahq.co)** — a precision tech consultancy where I work with businesses on AI, automation, and full-stack engineering.
+I build at the intersection of machine learning and real-world products. By day I work at **Meta** as an AI Data Specialist, contributing to the development and evaluation of large-scale ML systems. Outside of that, I run **[SOLA](https://solahq.co)** a precision tech consultancy where I work with businesses on AI, automation, and full-stack engineering.
 
 My focus is on the stuff that actually ships: reliable ML pipelines, NLP systems that work at scale, and products people use. I care less about hype and more about building things that hold up in production.
 
-> *Currently building AI-driven tools and consumer tech — all in private repos.*
+> *Currently building AI-driven tools and consumer tech all in private repos.*
 
 <br/>
 
@@ -43,38 +43,3 @@ My focus is on the stuff that actually ships: reliable ML pipelines, NLP systems
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Infra & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-### 📈 Contribution Activity
-
-> All commits include private repo activity
-
-<div align="center">
-
-![Abdul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasrescodes&theme=github-compact&hide_border=true&area=true&include_all_commits=true)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
-
-</div>
