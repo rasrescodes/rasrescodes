@@ -23,7 +23,6 @@ My focus is on the stuff that actually ships: reliable ML pipelines, NLP systems
 ---
 
 ### 🔧 Tech Stack
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -48,7 +47,7 @@ My focus is on the stuff that actually ships: reliable ML pipelines, NLP systems
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rasrescodes&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Abdul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rasrescodes&theme=github-compact&hide_border=true&area=true)
 
 </div>
 
